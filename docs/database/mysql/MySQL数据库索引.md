@@ -255,3 +255,8 @@ ALTER TABLE `table_name` ADD FULLTEXT ( `column`)
 ```sql
 ALTER TABLE `table_name` ADD INDEX index_name ( `column1`, `column2`, `column3` )
 ```
+
+##
+最左索引
+##
+<a href="https://www.cnblogs.com/-mrl/p/13230006.html" target="_blank">SeavnSUN</a>
