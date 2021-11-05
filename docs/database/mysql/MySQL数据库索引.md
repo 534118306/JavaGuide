@@ -256,12 +256,12 @@ ALTER TABLE `table_name` ADD FULLTEXT ( `column`)
 ALTER TABLE `table_name` ADD INDEX index_name ( `column1`, `column2`, `column3` )
 ```
 
-##
+####
 最左索引匹配原则
-##
+####
 <a href="https://www.cnblogs.com/-mrl/p/13230006.html" target="_blank">博客园</a>
 
-##
+####
 索引失效
-##
+####
 <a href="https://www.cnblogs.com/wdss/p/11186411.html" target="_blank">博客园</a>
